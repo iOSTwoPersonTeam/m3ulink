@@ -1,28 +1,28 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.112114.eu.org/logo/CCTV1.png" group-title="央视IPV4",CCTV1
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.112114.eu.org/logo/CCTV1.png" group-title="央视直播",CCTV1
 https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://epg.112114.eu.org/logo/CCTV2.png" group-title="央视IPV4",CCTV2
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://epg.112114.eu.org/logo/CCTV2.png" group-title="央视直播",CCTV2
 https://iptv.luas.edu.cn/liverespath/4a76af41d4831385db6f97ef28ed3240e9a04c72/index.m3u8
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://epg.112114.eu.org/logo/CCTV3.png" group-title="央视IPV4",CCTV3
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://epg.112114.eu.org/logo/CCTV3.png" group-title="央视直播",CCTV3
 https://node1.olelive.com:6443/live/CCTV3HD/hls.m3u8
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://epg.112114.eu.org/logo/CCTV4.png" group-title="央视IPV4",CCTV4
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://epg.112114.eu.org/logo/CCTV4.png" group-title="央视直播",CCTV4
 https://iptv.luas.edu.cn/liverespath/487288bea52497cdd5be093cdd29156a3548575f/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://epg.112114.eu.org/logo/CCTV5.png" group-title="央视IPV4",CCTV5
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://epg.112114.eu.org/logo/CCTV5.png" group-title="央视直播",CCTV5
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://epg.112114.eu.org/logo/CCTV6.png" group-title="央视IPV4",CCTV6
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://epg.112114.eu.org/logo/CCTV6.png" group-title="央视直播",CCTV6
 http://222.223.119.21:8888/newlive/live/hls/8/live.m3u8
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://epg.112114.eu.org/logo/CCTV7.png" group-title="央视IPV4",CCTV7
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://epg.112114.eu.org/logo/CCTV7.png" group-title="央视直播",CCTV7
 https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://epg.112114.eu.org/logo/CCTV8.png" group-title="央视IPV4",CCTV8
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://epg.112114.eu.org/logo/CCTV8.png" group-title="央视直播",CCTV8
 https://iptv.luas.edu.cn/liverespath/539269fcb758f2d29b77c48794e1838b1d7d8826/index.m3u8
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://epg.112114.eu.org/logo/CCTV9.png" group-title="央视IPV4",CCTV9
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://epg.112114.eu.org/logo/CCTV9.png" group-title="央视直播",CCTV9
 https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://epg.112114.eu.org/logo/CCTV10.png" group-title="央视IPV4",CCTV10
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://epg.112114.eu.org/logo/CCTV10.png" group-title="央视直播",CCTV10
 http://222.223.119.21:8888/newlive/live/hls/12/live.m3u8
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://epg.112114.eu.org/logo/CCTV12.png" group-title="央视IPV4",CCTV12
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://epg.112114.eu.org/logo/CCTV12.png" group-title="央视直播",CCTV12
 http://222.223.119.21:8888/newlive/live/hls/14/live.m3u8
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://epg.112114.eu.org/logo/CCTV13.png" group-title="央视IPV4",CCTV13
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://epg.112114.eu.org/logo/CCTV13.png" group-title="央视直播",CCTV13
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://epg.112114.eu.org/logo/CCTV14.png" group-title="央视IPV4",CCTV14
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://epg.112114.eu.org/logo/CCTV14.png" group-title="央视直播",CCTV14
 http://222.223.119.21:8888/newlive/live/hls/17/live.m3u8
